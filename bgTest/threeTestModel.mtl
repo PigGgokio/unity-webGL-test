@@ -1,24 +1,24 @@
 newmtl blinn1SG
-Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ks 0.55 0.55 0.55
+Tf 1.00 1.00 1.00
 Ni 1.00
 illum 4
 map_Kd pyTexture.png
 
 newmtl blinn2SG
-Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ks 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
 Ni 1.00
-illum 4
+illum 1
 map_Kd earth.png
 
 newmtl lambert2SG
-Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
+Kd 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 illum 4
