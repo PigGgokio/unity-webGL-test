@@ -5,7 +5,7 @@ Ks 0.55 0.55 0.55
 Tf 1.00 1.00 1.00
 Ni 1.00
 illum 4
-map_Kd pyTexture.png
+map_Kd pyTexture.jpg
 
 newmtl blinn2SG
 Ka 0.00 0.00 0.00
@@ -14,7 +14,7 @@ Ks 0.50 0.50 0.50
 Tf 1.00 1.00 1.00
 Ni 1.00
 illum 1
-map_Kd earth.png
+map_Kd earth.jpg
 
 newmtl lambert2SG
 Ka 0.00 0.00 0.00
@@ -22,4 +22,4 @@ Kd 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 illum 4
-map_Kd pyTexture.png
+map_Kd pyTexture.jpg
